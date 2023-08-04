@@ -1,2 +1,1 @@
-# Work-schedulechallenge
-challenge 5
+# Work Day Scheduler Starter Code
